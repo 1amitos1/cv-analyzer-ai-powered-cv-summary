@@ -45,7 +45,7 @@ The goal is to make CV screening and review more efficient for both candidates a
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/svision1/cv-analyzer-ai-powered-cv-summary.git
+git remote add origin https://github.com/1amitos1/cv-analyzer-ai-powered-cv-summary.git
 git branch -M main
 git push -uf origin main
 ```
